@@ -6,14 +6,14 @@ origen = r'C:\Users\Malyk\Downloads'
 
 # Diccionario de carpetas destino por tipo de archivo
 destinos = {
-    'pdf': r'C:\Users\Malyk\Documents\PDFs',
-    'imagenes': r'C:\Users\Malyk\Pictures\AutoSorted\Images',
-    'pngs': r'C:\Users\Malyk\Pictures\AutoSorted\PNGs',
-    'zip': r'C:\Users\Malyk\Documents\Compressed',
-    'documentos': r'C:\Users\Malyk\Documents\TextFiles',
-    'excel': r'C:\Users\Malyk\Documents\ExcelFiles',
-    'videos': r'C:\Users\Malyk\Videos\AutoSorted',
-    'otros': r'C:\Users\Malyk\Documents\Otros'
+    'pdf': r'P:\Docs\PDFs',
+    'imagenes': r'P:\Images\AutoSorted\Images',
+    'pngs': r'P:\Images\AutoSorted\PNGs',
+    'zip': r'P:\Docs\Compressed',
+    'documentos': r'D:\Docs\TextFiles',
+    'excel': r'P:\Docs\Excel',
+    'videos': r'E:\Video\MP4',
+    'otros': r'P:\Docs\Otros'
 }
 
 # Extensiones agrupadas por tipo
