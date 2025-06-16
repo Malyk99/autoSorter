@@ -3,6 +3,12 @@ import shutil
 import datetime
 import json
 
+if not os.path.exists("config.json"):
+    import sys
+    from tkinter import messagebox
+    messagebox.showerror("Error", "No se encontró el archivo config.json junto al ejecutable.")
+    sys.exit(1)
+
 # Leer configuración desde config.json
 with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
