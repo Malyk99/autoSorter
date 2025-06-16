@@ -1,0 +1,14 @@
+{
+  "origen": "C:/Users/Malyk/Downloads",
+  "log": "P:/Docs/sort_log.txt",
+  "destinos": {
+    "pdf": "P:/Docs/PDFs",
+    "imagenes": "P:/Images/AutoSorted/Images",
+    "pngs": "P:/Images/AutoSorted/PNGs",
+    "zip": "P:/Docs/Compressed",
+    "documentos": "D:/Docs/TextFiles",
+    "excel": "P:/Docs/Excel",
+    "videos": "E:/Video/MP4",
+    "otros": "P:/Docs/Otros"
+  }
+}
